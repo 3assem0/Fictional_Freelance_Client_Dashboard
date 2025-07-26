@@ -24,7 +24,7 @@ This dashboard mimics a real-world admin interface for a fictional freelance cli
   - Deadline  
   Displayed in either a **table** or **card-style layout**.
 
-- **Profile Settings Page** *(Optional)*  
+- **Profile Settings Page**   
   Editable user profile section with:
   - Name
   - Email
@@ -46,7 +46,7 @@ This dashboard mimics a real-world admin interface for a fictional freelance cli
 
 | Library | Purpose |
 |--------|---------|
-| `ReactJS` | Core framework |
+| `ReactVite` | Core framework |
 | `React Router` | Multi-page navigation |
 | `Chart.js` / `Recharts` | Chart rendering |
 | `TailwindCSS` | Utility-first styling |
