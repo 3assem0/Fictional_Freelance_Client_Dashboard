@@ -68,5 +68,5 @@ This dashboard mimics a real-world admin interface for a fictional freelance cli
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/freelance-dashboard.git
+git clone https://github.com/3assem0/freelance-dashboard.git
 cd freelance-dashboard
